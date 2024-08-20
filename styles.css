@@ -3,7 +3,15 @@
   margin: auto;
   text-align: center;
 }
-
+#play {
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  border: 2px solid red;
+  border-radius: 10px;
+}
 .dice {
   text-align: center;
   display: inline-block;
@@ -18,10 +26,15 @@ h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 3rem;
   color: #4ECCA3;
 }
 
+.cont-para {
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
 p {
   font-size: 2rem;
   color: #4ECCA3;
